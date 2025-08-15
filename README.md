@@ -1,4 +1,3 @@
-![Banner](./assets/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Christian Boateng</h1>
 <h3 align="center">AI and Tech Enthusiast • Community Builder</h3>
