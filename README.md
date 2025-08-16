@@ -5,8 +5,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Bachelors in Computer Science student from **Ghana**  
-- 🏆 **Aspire Leadership Institute** alumnus  
+- 🎓 Bachelors in Computer Science student from **Ghana**    
 - 🌍 Passionate about **AI for social impact**, civic engagement & digital literacy  
 - 💻 Building **full-stack web apps**, training ML models & contributing to open-source  
 - ✍🏾 Sharing knowledge through **projects & community initiatives**  
