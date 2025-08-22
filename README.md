@@ -7,8 +7,7 @@
 - 🎓 Bachelor of Science in Computer Science and Engineering from **Ghana**    
 - 🌍 Passionate about **AI for social impact**, civic engagement & digital literacy  
 - 💻 Building **full-stack web apps**, training ML models & contributing to open-source  
-- ✍🏾 Sharing knowledge through **projects & community initiatives**  
-- 📖 Currently pursuing a Master's degree in Computer Science at Arizona State University  
+- ✍🏾 Sharing knowledge through **projects & community initiatives**   
 
 ---
 
