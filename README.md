@@ -1,35 +1,30 @@
-
 <h1 align="center">Hi 👋, I'm Christian Boateng</h1>
 <h3 align="center">AI and Tech Enthusiast • Community Builder</h3>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 Bachelors in Computer Science student from **Ghana**    
+- 🎓 Bachelor of Science in Computer Science and Engineering from **Ghana**    
 - 🌍 Passionate about **AI for social impact**, civic engagement & digital literacy  
 - 💻 Building **full-stack web apps**, training ML models & contributing to open-source  
 - ✍🏾 Sharing knowledge through **projects & community initiatives**  
+- 📖 Currently pursuing a Master's degree in Computer Science at Arizona State University  
 
 ---
 
 ### 🛠 Tech Stack  
-**Languages:** Python, JavaScript  
-**Frameworks & Libraries:** Django, FastAPI, React, Pandas, OpenCV, TensorFlow  
-**Databases:** PostgreSQL, SQLite  
-**Tools & Platforms:** Docker, Git, Kaggle, Google Cloud  
+**Languages:** Python, Java, C/C++, HTML/CSS  
+**Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Django, React  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Tools & Platforms:** AWS, Google Cloud, Docker, Git, Kaggle  
 
 ---
 
-### 📚 Currently Learning  
-- Deep learning model optimization  
-- Advanced React patterns  
-- Cloud deployment for AI applications  
-
----
-
-### 📌 Current Projects  
+### 📚 Current Projects  
+- **Unveiling Agricultural Insight:** Optimizing Transfer Learning Models with Grad-CAM for Maize Disease Detection  
 - **Proximus Generation (PGEN):** Civic engagement & climate change awareness in Ghanaian schools  
-- **AI for Agriculture:** Vision transformers for maize disease detection 
+- **AI for Galamsey (Illegal Mining) Detection:** Using computer vision to monitor mining activities  
+- **Multi-Crop Disease Classification System:** AI framework for early disease detection across major crops  
 
 ---
 
@@ -50,13 +45,10 @@
 
 ### 📫 Connect With Me  
 <p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:Christianboateng360@gmail.com">
+  <a href="mailto:christianboateng360@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/chrisboat" target="_blank">
+  <a href="https://linkedin.com/in/christianboateng" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
